@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumit-negiii
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JAVA FULL STACK
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me email - sumitnegi7465@gmail.com
 
 <!---
